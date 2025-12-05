@@ -1,9 +1,9 @@
 # intro-to-github
 Make changes to this README file and commit :)
 
-- Name: Kevin On
+- Name: Raymond Nguyen
 - Grade Level: 11
-- Favorite Color: Orange
-- Favorite Animal: JellyFish
-- Hobbies: Video Games
-- Thoughts on FRC: Fun and a new experience for a introvert like myself
+- Favorite Color: Blue
+- Favorite Animal: Fox
+- Hobbies: Sleeping, Playing Games, etc...
+- Thoughts on FRC: Whatever he said
